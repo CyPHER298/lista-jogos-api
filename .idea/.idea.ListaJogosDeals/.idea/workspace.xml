@@ -14,7 +14,23 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fc19c43-ad1d-4cca-9ac8-d3a1f653e106" name="Changes" comment="" />
+    <list default="true" id="9fc19c43-ad1d-4cca-9ac8-d3a1f653e106" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ListaJogosDeals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ListaJogosDeals/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/ListaJogos.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/ListaJogos.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/Debug/net9.0/ListaJogos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/Debug/net9.0/ListaJogos.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/Debug/net9.0/ListaJogos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/Debug/net9.0/ListaJogos.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/Debug/net9.0/ListaJogos.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/Debug/net9.0/ListaJogos.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/Debug/net9.0/ListaJogos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/Debug/net9.0/ListaJogos.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/Debug/net9.0/ListaJogos.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/Debug/net9.0/ListaJogos.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/ListaJogos.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/ListaJogos.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/ListaJogos.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/ListaJogos.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/ListaJogos.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/ListaJogos.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaJogos/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ListaJogos/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,32 +39,91 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.9749472291454029" />
+      <entry key="MS500" value="5.400942342827276" />
+      <entry key="S2" value="7.822737099127955" />
+      <entry key="S5" value="10.027621409888553" />
+      <entry key="S10" value="17.024403667337875" />
+      <entry key="S30" value="40.81413827694577" />
+      <entry key="S60" value="56.26315637329141" />
+      <entry key="M2" value="70.68283897886128" />
+      <entry key="M5" value="93.74525144385264" />
+      <entry key="M10" value="109.80478909744993" />
+      <entry key="M15" value="116.9492657408746" />
+      <entry key="M30" value="125.27431074349724" />
+      <entry key="H1" value="129.94678419827673" />
+      <entry key="H2" value="132.42374041113953" />
+      <entry key="H4" value="133.69919008989552" />
+      <entry key="D1" value="134.78141407003827" />
+      <entry key="W1" value="134.96872943684315" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.6031544898380092E-52" />
+      <entry key="MS500" value="4.8205877033443286E-11" />
+      <entry key="S2" value="0.0026349658873822237" />
+      <entry key="S5" value="0.09296297185446102" />
+      <entry key="S10" value="0.30489829755913866" />
+      <entry key="S30" value="0.673056722696711" />
+      <entry key="S60" value="0.8204003429403907" />
+      <entry key="M2" value="0.905759539248906" />
+      <entry key="M5" value="0.9611809762776472" />
+      <entry key="M10" value="0.9803983763132447" />
+      <entry key="M15" value="0.9868891831283231" />
+      <entry key="M30" value="0.9934229628553601" />
+      <entry key="H1" value="0.9967060563954452" />
+      <entry key="H2" value="0.9983516697013356" />
+      <entry key="H4" value="0.9991754949463763" />
+      <entry key="D1" value="0.9998625352583328" />
+      <entry key="W1" value="0.9999803610227317" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.916579976516674" />
+      <entry key="MS500" value="5.334847778503091" />
+      <entry key="S2" value="7.79772540182591" />
+      <entry key="S5" value="10.087390346335605" />
+      <entry key="S10" value="17.286618525897097" />
+      <entry key="S30" value="41.45580007045375" />
+      <entry key="S60" value="57.063780855044364" />
+      <entry key="M2" value="71.57692493640305" />
+      <entry key="M5" value="94.70057366674979" />
+      <entry key="M10" value="110.78183554138894" />
+      <entry key="M15" value="117.93379440737151" />
+      <entry key="M30" value="126.26647996915422" />
+      <entry key="H1" value="130.94284274346472" />
+      <entry key="H2" value="133.42176285115855" />
+      <entry key="H4" value="134.69819956031935" />
+      <entry key="D1" value="135.78124873516396" />
+      <entry key="W1" value="135.9687058114882" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LytknFNI4y9fxubb2KwmKgPxQl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.ListaJogosDeals: http">
     <configuration name="ListaJogosDeals: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ListaJogos/ListaJogos.csproj" />
