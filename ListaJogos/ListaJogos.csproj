@@ -28,16 +28,17 @@
     <ItemGroup>
       <Folder Include="Controllers\" />
       <Folder Include="Data\" />
-      <Folder Include="Domain\Enums\" />
-      <Folder Include="Domain\Exceptions\" />
-      <Folder Include="Domain\IServices\" />
-      <Folder Include="Domain\Services\" />
       <Folder Include="DTOs\" />
-      <Folder Include="Infrastructure\External\" />
+      <Folder Include="Exceptions\" />
+      <Folder Include="External\" />
+      <Folder Include="Infrastructure\Domain\" />
       <Folder Include="Infrastructure\HealthChecks\" />
-      <Folder Include="Infrastructure\MIddleware\" />
-      <Folder Include="Infrastructure\Persistence\" />
+      <Folder Include="Infrastructure\Persistence\Enums\" />
+      <Folder Include="Infrastructure\Persistence\Mappings\" />
+      <Folder Include="Infrastructure\Persistence\Repository\" />
+      <Folder Include="MIddleware\" />
       <Folder Include="Migrations\" />
+      <Folder Include="Services\" />
     </ItemGroup>
 
 </Project>
